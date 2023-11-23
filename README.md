@@ -1,29 +1,29 @@
 # vaibhav_Portfolio
 Basic data science portfolio
-# Data Science Portfolio
+  # Data Science Portfolio
 
-## TMBD Movie & Series Scraper
+## Project 1:TMBD Movie & Series Web Scrapping using Python
 
-### Overview
+#### Overview
 - Scraped Movies/Series from TMBD website using Requests & BeautifulSoup4.
 - Implemented functions such as `get_topic_page()`, `Ratings()`, `movie_url()` to extract relevant information.
 - Stored data with 100+ rows x 5 columns into Movies.csv.
 
-### Exploratory Data Analysis on IPL 2020 Tweets
+## Project 2:Exploratory Data Analysis on IPL 2020 Tweets
 
 #### Overview
 - Cleaned & analyzed data with over 5.5M rows and 15 columns using Pandas.
 - Created visualizations (scatter plots, WordCloud, PairPlot, etc.) using Seaborn, Matplotlib & Plotly.
 - Discovered that most tweets are from Mumbai, India during IPL 2020 season.
 
-### UEFA Champions League Insights
+## Project 3:UEFA Champions League Insights
 
 #### Overview
 - Analyzed a dataset of different teams with various players using Pivot Tables, VLOOKUP in Excel and Google Sheets.
 - Loaded the dataset into Tableau and created a dashboard with maps, bar plots, packed bubbles, etc.
 - Discovered that Real Madrid has the highest number of Champions League Titles & Goals.
 
-### Walmart Sales Forecasting using Machine Learning
+## Project 4: Walmart Sales Forecasting using Machine Learning
 
 #### Overview
 - Cleaned & analyzed a retail store dataset with 420,000+ rows & 16 columns to predict weekly sales.
