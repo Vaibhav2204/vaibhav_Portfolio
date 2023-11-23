@@ -32,8 +32,8 @@ Basic data science portfolio
 - Cleaned & analyzed a retail store dataset with 420,000+ rows & 16 columns to predict weekly sales.
 - Trained linear models, random forests, and gradient boosted trees using scikit-learn & XGBoost.
 - Achieved a weighted mean absolute error of $2,487, landing in the top 25% on Kaggle.
-![](https://github.com/Vaibhav2204/portfolio_3/blob/main/images/download%20(3).png)
-![](https://github.com/Vaibhav2204/portfolio_3/blob/main/images/download%20(1).png)
+![Walmart Sales Visualization 1](images/download (3).png)
+![Walmart Sales Visualization 2](images/download (1).png)
 
 ## Repository Structure
 
