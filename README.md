@@ -52,5 +52,3 @@ Basic data science portfolio
 - Python (Requests, BeautifulSoup4, Pandas, Seaborn, Matplotlib, Plotly, scikit-learn, XGBoost)
 - Excel, Google Sheets
 - Tableau
-
-
