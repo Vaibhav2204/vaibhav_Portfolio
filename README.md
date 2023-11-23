@@ -8,7 +8,7 @@ Basic data science portfolio
 - Scraped Movies/Series from TMBD website using Requests & BeautifulSoup4.
 - Implemented functions such as `get_topic_page()`, `Ratings()`, `movie_url()` to extract relevant information.
 - Stored data with 100+ rows x 5 columns into Movies.csv.
-  ![Tmbd front page](https://github.com/Vaibhav2204/portfolio_3/blob/main/images/f9C3y66.png)
+ ![Tmbd front page](images/f9C3y66.png)
 
 ## [Project 2:Exploratory Data Analysis on IPL 2020 Tweets](https://github.com/Vaibhav2204/EDA_project)
 
@@ -16,8 +16,8 @@ Basic data science portfolio
 - Cleaned & analyzed data with over 5.5M rows and 15 columns using Pandas.
 - Created visualizations (scatter plots, WordCloud, PairPlot, etc.) using Seaborn, Matplotlib & Plotly.
 - Discovered that most tweets are from Mumbai, India during IPL 2020 season.
-![](https://github.com/Vaibhav2204/portfolio_3/blob/main/images/download%20(2).png)
-![](https://github.com/Vaibhav2204/portfolio_3/blob/main/images/download.png)
+![IPL Tweets Visualization 1](images/download (2).png)
+![IPL Tweets Visualization 2](images/download.png)
 
 ## [Project 3:UEFA Champions League Insights](https://github.com/Vaibhav2204/Tableau)
 
@@ -25,7 +25,7 @@ Basic data science portfolio
 - Analyzed a dataset of different teams with various players using Pivot Tables, VLOOKUP in Excel and Google Sheets.
 - Loaded the dataset into Tableau and created a dashboard with maps, bar plots, packed bubbles, etc.
 - Discovered that Real Madrid has the highest number of Champions League Titles & Goals.
-![Dashboard](https://github.com/Vaibhav2204/portfolio_3/blob/main/images/Dashboard%202.png)
+![Champions League Dashboard](images/Dashboard 2.png)
 
 ## [Project 4: Walmart Sales Forecasting using Machine Learning](https://github.com/Vaibhav2204/Ml_project)
 
