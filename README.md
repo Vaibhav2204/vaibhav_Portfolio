@@ -1,6 +1,5 @@
-# vaibhav_Portfolio
-Basic data science portfolio
   # Data Science Portfolio
+Basic data science portfolio
 
 ## [Project 1:TMBD Movie & Series Web Scrapping using Python](https://github.com/Vaibhav2204/Webscrapping)
 
